@@ -1,2 +1,5 @@
 carpeta_origen: "/Users/cristopherrobledo/Downloads"
 carpeta_destino: "/Users/cristopherrobledo/Documents"
+
+Filtrado:
+  extensiones_agregar: ["png", "json", "py"]
