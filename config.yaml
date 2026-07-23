@@ -1,5 +1,17 @@
 carpeta_origen: "/Users/cristopherrobledo/Downloads"
 carpeta_destino: "/Users/cristopherrobledo/Documents"
 
-Filtrado:
-  extensiones_agregar: ["png", "json", "py"]
+filtrado:
+  extensiones_agregar: ["png","json", "py"]
+  palabras_clave: ["factura", "documento_empresa", "reporte"]
+
+personalizado:
+  reportes_trabajo:
+    - "reporte de finanzas"
+    - "REPORTE ANUAL"
+    - "JUGOSENTERPRISE"
+  fotos_familiares:
+    - "hija"
+    - "hijo"
+    - "png"
+    - ""

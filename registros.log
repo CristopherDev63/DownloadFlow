@@ -1,0 +1,26 @@
+2026-07-23 12:50:39,045 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-23 12:50:53,025 - root - DEBUG - Detección de archivo nuevo [Downloads/sds.json]
+2026-07-23 12:50:53,026 - root - INFO - activiando función de movimiento
+2026-07-23 12:54:23,212 - root - INFO - Monitoreo Detenido ----
+2026-07-23 14:06:03,749 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-23 14:06:05,283 - root - INFO - Monitoreo Detenido ----
+2026-07-23 14:07:53,807 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-23 14:08:16,267 - root - DEBUG - Detección de archivo nuevo [Downloads/factura_medica.txt]
+2026-07-23 14:08:16,268 - root - INFO - activiando función de movimiento
+2026-07-23 14:08:38,652 - root - DEBUG - Detección de archivo nuevo [Downloads/reporte.txt]
+2026-07-23 14:08:38,652 - root - INFO - activiando función de movimiento
+2026-07-23 14:09:02,967 - root - INFO - Monitoreo Detenido ----
+2026-07-23 14:09:04,358 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-23 14:09:17,911 - root - DEBUG - Detección de archivo nuevo [Downloads/reporte.txt]
+2026-07-23 14:09:17,912 - root - INFO - activiando función de movimiento
+2026-07-23 14:09:28,932 - root - DEBUG - Detección de archivo nuevo [Downloads/imagen.py]
+2026-07-23 14:09:28,932 - root - INFO - activiando función de movimiento
+2026-07-23 14:09:54,216 - root - INFO - Monitoreo Detenido ----
+2026-07-23 15:06:08,634 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-23 15:06:20,089 - root - DEBUG - Detección de archivo nuevo [Downloads/main.py]
+2026-07-23 15:06:20,091 - root - INFO - pasar archivo de Downloads/main.py a /Users/cristopherrobledo/Documents
+2026-07-23 15:07:40,639 - root - INFO - Monitoreo Detenido ----
+2026-07-23 15:07:52,050 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-23 15:07:59,551 - root - DEBUG - Detección de archivo nuevo [Downloads/hola.json]
+2026-07-23 15:07:59,552 - root - INFO - pasar archivo de Downloads/hola.json a /Users/cristopherrobledo/Documents/hola.json
+2026-07-23 15:27:21,921 - root - INFO - Monitoreo Detenido ----
