@@ -1,34 +1,24 @@
-2026-07-23 12:50:39,045 - root - INFO - Comenzado Monitoreo en [Downloads] ----
-2026-07-23 12:50:53,025 - root - DEBUG - Detección de archivo nuevo [Downloads/sds.json]
-2026-07-23 12:50:53,026 - root - INFO - activiando función de movimiento
-2026-07-23 12:54:23,212 - root - INFO - Monitoreo Detenido ----
-2026-07-23 14:06:03,749 - root - INFO - Comenzado Monitoreo en [Downloads] ----
-2026-07-23 14:06:05,283 - root - INFO - Monitoreo Detenido ----
-2026-07-23 14:07:53,807 - root - INFO - Comenzado Monitoreo en [Downloads] ----
-2026-07-23 14:08:16,267 - root - DEBUG - Detección de archivo nuevo [Downloads/factura_medica.txt]
-2026-07-23 14:08:16,268 - root - INFO - activiando función de movimiento
-2026-07-23 14:08:38,652 - root - DEBUG - Detección de archivo nuevo [Downloads/reporte.txt]
-2026-07-23 14:08:38,652 - root - INFO - activiando función de movimiento
-2026-07-23 14:09:02,967 - root - INFO - Monitoreo Detenido ----
-2026-07-23 14:09:04,358 - root - INFO - Comenzado Monitoreo en [Downloads] ----
-2026-07-23 14:09:17,911 - root - DEBUG - Detección de archivo nuevo [Downloads/reporte.txt]
-2026-07-23 14:09:17,912 - root - INFO - activiando función de movimiento
-2026-07-23 14:09:28,932 - root - DEBUG - Detección de archivo nuevo [Downloads/imagen.py]
-2026-07-23 14:09:28,932 - root - INFO - activiando función de movimiento
-2026-07-23 14:09:54,216 - root - INFO - Monitoreo Detenido ----
-2026-07-23 15:06:08,634 - root - INFO - Comenzado Monitoreo en [Downloads] ----
-2026-07-23 15:06:20,089 - root - DEBUG - Detección de archivo nuevo [Downloads/main.py]
-2026-07-23 15:06:20,091 - root - INFO - pasar archivo de Downloads/main.py a /Users/cristopherrobledo/Documents
-2026-07-23 15:07:40,639 - root - INFO - Monitoreo Detenido ----
-2026-07-23 15:07:52,050 - root - INFO - Comenzado Monitoreo en [Downloads] ----
-2026-07-23 15:07:59,551 - root - DEBUG - Detección de archivo nuevo [Downloads/hola.json]
-2026-07-23 15:07:59,552 - root - INFO - pasar archivo de Downloads/hola.json a /Users/cristopherrobledo/Documents/hola.json
-2026-07-23 15:27:21,921 - root - INFO - Monitoreo Detenido ----
-2026-07-23 23:47:09,440 - root - INFO - Comenzado Monitoreo en [Downloads] ----
-2026-07-23 23:47:25,497 - root - DEBUG - Detección de archivo nuevo [Downloads/documentos.json]
-2026-07-23 23:47:25,498 - root - INFO - pasar archivo de Downloads/documentos.json a /Users/cristopherrobledo/Documents/documentos.json
-2026-07-23 23:47:30,086 - root - INFO - Monitoreo Detenido ----
-2026-07-23 23:49:29,693 - root - INFO - Comenzado Monitoreo en [Downloads] ----
-2026-07-23 23:49:31,575 - root - DEBUG - Detección de archivo nuevo [Downloads/facturaTrimestral.txt]
-2026-07-23 23:49:31,576 - root - INFO - pasar archivo de Downloads/facturaTrimestral.txt a /Users/cristopherrobledo/Documents/facturaTrimestral.txt
-2026-07-23 23:49:46,111 - root - INFO - Monitoreo Detenido ----
+2026-07-24 00:18:37,704 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-24 00:18:52,355 - root - DEBUG - Detección de archivo nuevo [Downloads/archivo.json]
+2026-07-24 00:19:40,799 - root - INFO - Monitoreo Detenido ----
+2026-07-24 00:19:42,539 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-24 00:20:05,346 - root - DEBUG - Detección de archivo nuevo [Downloads/archivo.png]
+2026-07-24 00:21:06,291 - root - INFO - Monitoreo Detenido ----
+2026-07-24 00:21:17,946 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-24 00:21:24,517 - root - DEBUG - Detección de archivo nuevo [Downloads/archivo.json]
+2026-07-24 00:21:24,518 - root - INFO - Archivo [archivo.json] movido de [Downloads/archivo.json] a [Documents/archivo.json]
+2026-07-24 00:22:25,259 - root - INFO - Monitoreo Detenido ----
+2026-07-24 00:24:29,310 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-24 00:24:38,089 - root - DEBUG - Detección de archivo nuevo [Downloads/archivo.json]
+2026-07-24 00:24:38,089 - root - INFO - Archivo [archivo.json] movido de [Downloads/archivo.json] a [Documents/prueba-automatizacion/archivo.json]
+2026-07-24 00:25:07,897 - root - DEBUG - Detección de archivo nuevo [Downloads/archivo.json]
+2026-07-24 00:25:07,898 - root - WARNING - Archivo [archivo.json] con mismo nombre en [Documents/prueba-automatizacion]
+2026-07-24 00:25:07,900 - root - INFO - Archivo [archivo.json] movido y renombrado con [Downloads/archivo.json] a [Documents/prueba-automatizacion/archivo_copia_1.json] como nuevo nombre
+2026-07-24 00:26:21,843 - root - DEBUG - Detección de archivo nuevo [Downloads/archivo.py]
+2026-07-24 00:26:21,844 - root - INFO - Archivo [archivo.py] movido de [Downloads/archivo.py] a [Documents/prueba-automatizacion/archivo.py]
+2026-07-24 00:27:13,008 - root - DEBUG - Detección de archivo nuevo [Downloads/archivo.py]
+2026-07-24 00:27:13,009 - root - WARNING - Archivo [archivo.py] con mismo nombre en [Documents/prueba-automatizacion]
+2026-07-24 00:27:13,010 - root - INFO - Archivo [archivo.py] movido y renombrado con [Downloads/archivo.py] a [Documents/prueba-automatizacion/archivo_copia_1.py] como nuevo nombre
+2026-07-24 00:27:57,030 - root - DEBUG - Detección de archivo nuevo [Downloads/archivo.py]
+2026-07-24 00:27:57,030 - root - WARNING - Archivo [archivo.py] con mismo nombre en [Documents/prueba-automatizacion]
+2026-07-24 00:27:57,032 - root - INFO - Archivo [archivo.py] movido y renombrado con [Downloads/archivo.py] a [Documents/prueba-automatizacion/archivo_copia_2.py] como nuevo nombre

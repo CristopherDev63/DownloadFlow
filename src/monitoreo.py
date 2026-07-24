@@ -44,7 +44,7 @@ class Monitoreo(PatternMatchingEventHandler):
         ruta_origen_archivo = self._acortador_ruta(event.src_path)
         
         logging.debug(f"Detección de archivo nuevo [{ruta_origen_archivo}]")
-        self.movimiento_archivo(ruta_origen_archivo, self.ruta_destino_carpeta)
+        self.movimiento_archivo(event.src_path, self.ruta_destino_carpeta)
 
 
 def creacion_monitorizacion(extensiones: list[str], ruta_proyecto: Path, movimiento_archivo: Callable[[Path], None], ruta_origen_carpeta: Path, ruta_destino_carpeta: Path) -> Observer:

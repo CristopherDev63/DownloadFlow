@@ -1,5 +1,5 @@
 carpeta_origen: "/Users/cristopherrobledo/Downloads"
-carpeta_destino: "/Users/cristopherrobledo/Documents"
+carpeta_destino: "/Users/cristopherrobledo/Documents/prueba-automatizacion"
 
 filtrado:
   extensiones_agregar: ["png","json", "py"]
