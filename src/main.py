@@ -1,4 +1,3 @@
-from watchdog.observers import Observer
 from monitoreo import creacion_monitorizacion
 from config import carga_configuracion
 from traslado_archivo import movimiento_archivos
@@ -30,7 +29,7 @@ if __name__ == "__main__":
     data_configuracion = carga_configuracion(RUTA_CONFIGURACION)
     ruta_origen_carpeta = data_configuracion.carpeta_origen
     ruta_destino_carpeta = data_configuracion.carpeta_destino
-    lista_extensiones = data_configuracion.Filtrado.lista_patrones
+    lista_extensiones = data_configuracion.filtrado.lista_patrones
 
     observer = creacion_monitorizacion(lista_extensiones, RUTA_BASE, movimiento_archivos, ruta_origen_carpeta, ruta_destino_carpeta)
     observer.start()

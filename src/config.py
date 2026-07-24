@@ -45,14 +45,13 @@ class lista_extensiones(BaseModel):
         self.lista_patrones = self.extensiones_agregar + self.palabras_clave 
 
         return self
-        
 
 
 class contrato_datos_configuracion(BaseModel):
     """ Contrato de datos para verificación de configuración """
     carpeta_origen: Path
     carpeta_destino: Path
-    Filtrado: lista_extensiones
+    filtrado: lista_extensiones
 
 
 

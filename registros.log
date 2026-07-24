@@ -24,3 +24,11 @@
 2026-07-23 15:07:59,551 - root - DEBUG - Detección de archivo nuevo [Downloads/hola.json]
 2026-07-23 15:07:59,552 - root - INFO - pasar archivo de Downloads/hola.json a /Users/cristopherrobledo/Documents/hola.json
 2026-07-23 15:27:21,921 - root - INFO - Monitoreo Detenido ----
+2026-07-23 23:47:09,440 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-23 23:47:25,497 - root - DEBUG - Detección de archivo nuevo [Downloads/documentos.json]
+2026-07-23 23:47:25,498 - root - INFO - pasar archivo de Downloads/documentos.json a /Users/cristopherrobledo/Documents/documentos.json
+2026-07-23 23:47:30,086 - root - INFO - Monitoreo Detenido ----
+2026-07-23 23:49:29,693 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-23 23:49:31,575 - root - DEBUG - Detección de archivo nuevo [Downloads/facturaTrimestral.txt]
+2026-07-23 23:49:31,576 - root - INFO - pasar archivo de Downloads/facturaTrimestral.txt a /Users/cristopherrobledo/Documents/facturaTrimestral.txt
+2026-07-23 23:49:46,111 - root - INFO - Monitoreo Detenido ----
