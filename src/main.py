@@ -1,6 +1,7 @@
 from monitoreo import creacion_monitorizacion
 from config import carga_configuracion
 from traslado_archivo import movimiento_archivos
+from crear_tarea_segundo_plano import crear_tarea_automatizacion
 from pathlib import Path 
 import logging 
 import time
@@ -8,6 +9,8 @@ import time
 
 RUTA_BASE = Path.home()
 RUTA_PROYECTO = Path(__file__).resolve().parent.parent
+RUTA_SCRIPT = Path(__file__)
+RUTA_BASE_VENV = RUTA_PROYECTO / "venv" / "bin" / "python3"
 RUTA_REGISTROS = RUTA_PROYECTO / "registros.log"
 RUTA_CONFIGURACION = RUTA_PROYECTO / "config.yaml"
 
@@ -30,6 +33,8 @@ if __name__ == "__main__":
     ruta_origen_carpeta = data_configuracion.carpeta_origen
     ruta_destino_carpeta = data_configuracion.carpeta_destino
     lista_extensiones = data_configuracion.filtrado.lista_patrones
+
+    crear_tarea_automatizacion(RUTA_BASE_VENV, RUTA_SCRIPT, RUTA_REGISTROS)
 
     observer = creacion_monitorizacion(lista_extensiones, RUTA_BASE, movimiento_archivos, ruta_origen_carpeta, ruta_destino_carpeta)
     observer.start()

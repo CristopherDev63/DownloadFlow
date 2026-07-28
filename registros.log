@@ -22,3 +22,12 @@
 2026-07-24 00:27:57,030 - root - DEBUG - Detección de archivo nuevo [Downloads/archivo.py]
 2026-07-24 00:27:57,030 - root - WARNING - Archivo [archivo.py] con mismo nombre en [Documents/prueba-automatizacion]
 2026-07-24 00:27:57,032 - root - INFO - Archivo [archivo.py] movido y renombrado con [Downloads/archivo.py] a [Documents/prueba-automatizacion/archivo_copia_2.py] como nuevo nombre
+2026-07-24 00:30:38,503 - root - INFO - Monitoreo Detenido ----
+2026-07-24 00:38:24,163 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-24 00:38:25,077 - root - INFO - Monitoreo Detenido ----
+2026-07-24 00:43:02,037 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-24 00:43:25,840 - root - INFO - Monitoreo Detenido ----
+2026-07-24 00:44:22,709 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-24 00:44:23,457 - root - INFO - Monitoreo Detenido ----
+2026-07-24 17:04:57,971 - root - INFO - Comenzado Monitoreo en [Downloads] ----
+2026-07-24 17:05:16,630 - root - INFO - Monitoreo Detenido ----
