@@ -40,7 +40,7 @@ class lista_extensiones(BaseModel):
 
     
     @model_validator(mode="after")
-    def lista_patrones_completo(self) -> "lista_patrones":
+    def lista_patrones_completo(self) -> "lista_extensiones":
         """ Función encargada de combinar la lista de exntesiones y nombres de archivos. """
         self.lista_patrones = self.extensiones_agregar + self.palabras_clave 
 
